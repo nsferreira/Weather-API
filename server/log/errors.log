@@ -1,0 +1,363 @@
+[2019-01-08T19:28:48.243] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T19:29:09.580] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T19:29:58.009] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T19:31:14.145] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T19:34:48.909] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T20:00:14.447] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T20:01:07.239] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T20:02:06.643] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T20:02:35.193] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T20:07:15.785] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-08T20:09:41.516] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-12T13:01:17.483] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T13:03:29.749] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T13:03:54.519] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T13:04:21.454] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T13:04:52.075] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T13:05:13.130] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T13:06:35.644] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:50.867] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:51.168] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:51.313] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:52.104] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:55.604] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:56.125] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:57.082] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:57.273] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:57.477] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:57.592] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:57.723] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:08:57.931] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-12T16:09:50.658] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:04.167] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:04.217] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:11.372] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:22.869] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:24.135] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:25.163] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:26.112] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:46.491] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:49.390] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:32:59.752] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:33:23.780] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:33:41.647] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:33:49.496] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:33:55.824] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:34:05.412] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:34:10.445] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:34:15.739] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:34:17.077] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T00:34:18.129] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-13T12:42:38.798] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T12:43:45.599] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T12:45:12.148] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:31:22.265] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:31:52.713] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:32:20.717] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:33:20.719] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:51:35.491] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:53:05.960] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:53:49.297] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:54:06.632] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:54:43.647] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-13T16:55:12.184] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-14T14:32:29.331] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T14:32:34.167] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T14:32:35.379] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T14:33:18.520] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T14:33:20.218] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T14:33:21.439] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:12:55.905] [ERROR] weather-api - Error in addCity: error: bind message supplies 2 parameters, but prepared statement "fetch-user" requires 1
+[2019-01-14T18:14:05.030] [ERROR] weather-api - Error in addCity: error: duplicate key value violates unique constraint "cities_name_key"
+[2019-01-14T18:15:50.582] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:15:50.896] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:15:50.907] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:16:29.508] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:16:29.636] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:16:29.653] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T18:18:20.675] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T18:21:14.153] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T18:21:14.157] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T18:21:14.165] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T18:22:03.942] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:10:23.524] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:10:23.528] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:10:23.536] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:10:25.315] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:10:33.212] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:10:34.199] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:11:17.889] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:11:17.893] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-14T22:50:39.833] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:50:44.918] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:55:43.236] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:56:30.947] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:57:00.380] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:58:37.406] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:59:26.959] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-14T22:59:32.248] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:29:53.632] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:30:49.468] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:30:58.293] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:31:22.520] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:31:44.579] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:32:07.952] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:32:14.846] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:32:23.227] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:33:17.527] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:34:17.577] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:34:50.525] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:34:57.720] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:35:23.483] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:35:39.926] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:36:09.686] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:38:27.503] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:44:49.584] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:44:55.491] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:45:10.546] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:45:21.520] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:45:31.027] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:46:56.570] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:47:16.800] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:47:25.720] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:47:29.132] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:48:03.583] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:48:31.486] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:48:36.480] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:48:40.508] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:48:46.509] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:48:57.509] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:49:04.585] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:50:09.176] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:50:23.510] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:50:30.496] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:50:35.504] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:50:41.612] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:51:00.675] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:51:14.522] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:51:36.475] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:51:58.479] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:52:03.750] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:52:39.553] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:53:14.486] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:53:19.499] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:54:37.514] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:54:55.338] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:55:35.528] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:55:48.490] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:56:02.560] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:56:14.877] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:56:33.528] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:56:54.689] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:57:11.811] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T10:58:22.015] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:02:39.819] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:03:12.537] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:10:30.126] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:11:32.996] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:11:40.201] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:11:42.445] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T11:11:42.456] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T11:11:43.311] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T11:12:11.717] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:12:20.168] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:12:28.459] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:14:58.764] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:23:01.566] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T11:23:38.538] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:43:39.776] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:43:54.667] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:44:06.530] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:44:12.612] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:44:17.522] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:44:45.840] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:45:31.670] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:45:40.581] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:45:43.595] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:45:46.760] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:47:00.944] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:47:42.790] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:47:45.530] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:48:00.642] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:48:44.764] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:48:58.557] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:49:19.983] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:49:35.431] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:49:41.222] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:50:14.652] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:50:21.556] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:50:49.233] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:51:34.839] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:51:38.974] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:51:47.527] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:52:22.513] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:52:58.535] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:53:18.599] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:53:23.083] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:53:26.769] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:53:37.074] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:53:47.873] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:53:53.532] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:54:06.402] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:54:42.111] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:55:11.043] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:55:15.855] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T15:55:59.036] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:04:30.026] [ERROR] weather-api - Error in addCity: error: null value in column "country" violates not-null constraint
+[2019-01-15T16:06:26.897] [ERROR] weather-api - Error in addCity: error: null value in column "country" violates not-null constraint
+[2019-01-15T16:07:48.730] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:08:37.838] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:08:43.693] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:08:54.572] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:08:56.657] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:27:39.820] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:29:40.813] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:30:55.059] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:31:24.609] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T16:31:24.650] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T16:31:25.448] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T16:31:27.753] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:31:39.987] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T16:31:57.769] [ERROR] weather-api - Something went wrong: { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[2019-01-15T16:32:26.416] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:38:25.778] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T16:38:26.213] [ERROR] weather-api - Something went wrong: { Error: connect ETIMEDOUT 146.185.181.89:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '146.185.181.89',
+  port: 80 }
+[2019-01-15T16:38:28.848] [ERROR] weather-api - Something went wrong: { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[2019-01-15T16:38:30.685] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
+[2019-01-15T16:38:32.275] [ERROR] weather-api - Something went wrong: { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[2019-01-15T16:38:58.232] [ERROR] weather-api - { weather: null, error: 'City does not exist' }
